@@ -160,7 +160,7 @@ public class Program6 {
             results.write("INTEGER: total selection sort time is: " + selectionIntTimeTotal + " nanoseconds\n");
             results.write("STRING: total bubble sort time is: " + bubbleStringTimeTotal + " nanoseconds\n");
             results.write("STRING: total select sort time is: " + selectStringTimeTotal + " nanoseconds\n");
-            results.write("STRING: total system sort time is: " + systemStringTimeTotal + "nanoseconds\n");
+            results.write("STRING: total system sort time is: " + systemStringTimeTotal + " nanoseconds\n");
 
             // Write the total array element counts
             results.write("Total Integer Array Elements: " + index + "\n");

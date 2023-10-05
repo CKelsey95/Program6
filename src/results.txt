@@ -1,7 +1,7 @@
-INTEGER: total bubble sort time is: 593472700 nanoseconds
-INTEGER: total selection sort time is: 185872200 nanoseconds
-STRING: total bubble sort time is: 508492400 nanoseconds
-STRING: total select sort time is: 171365400 nanoseconds
-STRING: total system sort time is: 6090400nanoseconds
+INTEGER: total bubble sort time is: 589531000 nanoseconds
+INTEGER: total selection sort time is: 181109500 nanoseconds
+STRING: total bubble sort time is: 518986300 nanoseconds
+STRING: total select sort time is: 174525100 nanoseconds
+STRING: total system sort time is: 6496600 nanoseconds
 Total Integer Array Elements: 20000
 Total String Array Elements: 10000
